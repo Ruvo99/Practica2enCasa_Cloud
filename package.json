@@ -1,0 +1,25 @@
+{
+  "name": "practicacasa2",
+  "version": "1.0.0",
+  "description": "Practica numero 2 en casa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruvo99/Practica2enCasa_Cloud.git"
+  },
+  "author": "Miguel Angel Ruvalcaba Navarro, Andrea Anahí Santana Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruvo99/Practica2enCasa_Cloud/issues"
+  },
+  "homepage": "https://github.com/Ruvo99/Practica2enCasa_Cloud#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
